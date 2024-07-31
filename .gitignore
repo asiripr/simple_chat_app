@@ -1,3 +1,7 @@
+#secure
+env.json
+chat_with_ai.iml
+
 # Miscellaneous
 *.class
 *.log
